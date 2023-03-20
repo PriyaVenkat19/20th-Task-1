@@ -5,7 +5,7 @@ body {
   font-family: "Mulish", sans-serif;
 }
 
-.Nav-Container {
+.Top-Container {
   height: 16vh;
   display: flex;
   justify-content: space-between;
@@ -50,13 +50,13 @@ body {
   gap: 3rem;
 }
 
-.pic1 {
+.img1 {
   width: 60%;
   position: relative;
   left: 1rem;
 }
 
-.pic2 {
+.img2 {
   width: 34%;
 }
 
